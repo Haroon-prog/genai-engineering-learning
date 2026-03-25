@@ -1,0 +1,52 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration 
+langchain-openai 
+openai
+
+# Anthropic Integration 
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+ langchain-google-genai
+ google-generativeai
+
+# groq Integration
+langchain-groq
+
+# Hugging Face Integration 
+langchain-huggingface
+huggingface-hub
+transformers
+
+# Environment Variable Management 
+python-dotenv
+
+# Machine Learning Utilities 
+numpy
+scikit-learn
+
+# for web app development (optional)
+streamlit
+
+langchain-community
+
+langgraph
+
+# doc load
+pypdf
+
+#vector store
+langchain-chroma
+
+#youtube video caption
+youtube-transcript-api
+
+
+sentence-transformers
+
+# for search
+duckduckgo-search
+ddgs
