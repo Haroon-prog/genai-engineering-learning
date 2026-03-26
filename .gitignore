@@ -5,3 +5,4 @@ __pycache__/
 *.db
 my_chroma_db/
 .vscode/
+.pdf_RAG/
