@@ -20,6 +20,8 @@ GEN AI/
 │       ├── SQL_AGENT
 │       ├── GOOGLE_SEARCH_AGENT
 │       └── PDF_RAG
+│       └── duckdgo_search_agent
+│       └── QnA_bot
 │
 ├── requirements.txt
 ├── .gitignore
